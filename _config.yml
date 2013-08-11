@@ -1,0 +1,15 @@
+name: Guy Royse
+description: Work. Life. Code. Game. Later. Rinse. Repeat.
+url: http://guyroyse.com
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sass-converter
+  - kramdown
+  - rouge
+markdown: kramdown
+highlighter: rouge
+timezone: America/Detroit
+safe: false
+paginate: 5
+paginate_path: "/blog/page:num/"
