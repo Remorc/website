@@ -1,4 +1,3 @@
-# GuyRoyse.com
+# cromers.net
 
-Congratulations! Thou hast discovered to code behind my website, [GuyRoyse.com](http://guyroyse.com). Therein thou
-shalt find many works and wonders! Go there with grand haste and compass it about thee.
+Oh hai! I see you found my GitHub page. Congrats! I hope you enjoy it. 

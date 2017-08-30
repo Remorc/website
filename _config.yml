@@ -1,6 +1,6 @@
-name: Guy Royse
-description: Work. Life. Code. Game. Later. Rinse. Repeat.
-url: http://guyroyse.com
+name: Brandon Cromer
+description: Just a place to do things and stuff.
+url: http://cromers.net
 gems:
   - jekyll-paginate
   - jekyll-feed
